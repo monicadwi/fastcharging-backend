@@ -17,6 +17,10 @@
 	<properties>
 		<java.version>11</java.version>
 		<csms-db-api.version>0.0.3</csms-db-api.version>
+		<sonar.projectKey>monicadwi_fastcharging-backend</sonar.projectKey>
+  		<sonar.organization>monicadwi</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 	</properties>
 	<dependencies>
 		<dependency>
